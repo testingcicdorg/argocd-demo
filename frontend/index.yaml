@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  frontend:
+  - apiVersion: v2
+    appVersion: "0.1"
+    created: "2022-08-09T11:37:50.951823+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 80f4f2c8274e40940edc4c8983e5c1af0e31c4298fa9881cebb772b2a05d7e19
+    name: frontend
+    type: application
+    urls:
+    - https://testingcicdorg.github.io/argocd-demo/frontend/frontend-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-08-09T11:37:50.951111+02:00"
