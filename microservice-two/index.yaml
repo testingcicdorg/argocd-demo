@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  microservice-two:
+  - apiVersion: v2
+    appVersion: "0.1"
+    created: "2022-08-09T22:26:22.034877+02:00"
+    description: A Helm chart for Kubernetes
+    digest: fbf3d50549d0abef1c45bff5a436de9b91299e1838014b62af8895acd03e4fa1
+    name: microservice-two
+    type: application
+    urls:
+    - https://testingcicdorg.github.io/argocd-demo/microservice-two/microservice-two-0.2.0.tgz
+    version: 0.2.0
+generated: "2022-08-09T22:26:22.03422+02:00"
