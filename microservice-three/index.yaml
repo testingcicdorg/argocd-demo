@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  microservice-three:
+  - apiVersion: v2
+    appVersion: "0.1"
+    created: "2022-08-09T22:39:25.753207+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 48eeb8603c042b9d18eff38e8ca638b7ab2ac249059ff4faa4d42131b8c6b335
+    name: microservice-three
+    type: application
+    urls:
+    - https://testingcicdorg.github.io/argocd-demo/microservice-three/microservice-three-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-08-09T22:39:25.750874+02:00"
